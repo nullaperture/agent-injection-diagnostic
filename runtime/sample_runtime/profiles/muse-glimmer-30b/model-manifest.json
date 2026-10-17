@@ -1,0 +1,70 @@
+{
+  "id": "meta-models/Muse-Glimmer-30B",
+  "revision": "a4e59da52a7bc87ae7251dd5545c0dd437c44b68",
+  "files": [
+    {
+      "path": "LICENSE",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "USAGE_POLICY.md",
+      "bytes": 5230,
+      "sha256": "98a14dab9fd97de1666dc8589d399efab1e7fc3ba4e6230d037d6637ba9481d3"
+    },
+    {
+      "path": "chat_template.jinja",
+      "bytes": 9992,
+      "sha256": "cfc67e5f349f37690dfd31ed1f18bc4442a9dd32fe39a648f993cb4eb3cae678"
+    },
+    {
+      "path": "config.json",
+      "bytes": 5109,
+      "sha256": "5a9df2d8a385b3d361ab6ae68d73586f4e775033933bd0cd863fb7f3820e6a14"
+    },
+    {
+      "path": "generation_config.json",
+      "bytes": 202,
+      "sha256": "1fa51889b1f8d3659802dedaa27e005b81e5c58483f13ecf13f2d97306bc6e35"
+    },
+    {
+      "path": "model-00001-of-00002.safetensors",
+      "bytes": 49950112952,
+      "sha256": "8eef61530e1283642c77ce2e6721feb5c6f348fa055c00e90f2844a136372694"
+    },
+    {
+      "path": "model-00002-of-00002.safetensors",
+      "bytes": 9603322320,
+      "sha256": "b58cc2144ba1ba1af4420f67f4ca3ced7f09298510b80464cc75018a0be14381"
+    },
+    {
+      "path": "model.safetensors.index.json",
+      "bytes": 132674,
+      "sha256": "7d817b4dccb1b123fc6c1939356c65cee3a0ad462a5b821ac88280990a27d1ba"
+    },
+    {
+      "path": "processor_config.json",
+      "bytes": 1084,
+      "sha256": "97e2a486dd9866b81f40cf4b8bc0c9ced9a7cd8a5bc65aa4cc2f4de0712dae77"
+    },
+    {
+      "path": "tokenizer.json",
+      "bytes": 28129897,
+      "sha256": "c9dbee66967b58f31a7c27f723c3760da3526ccd0427578e8905b0abb0031c4d"
+    },
+    {
+      "path": "tokenizer_config.json",
+      "bytes": 79936,
+      "sha256": "781e6c74f571642c71202167b67d9255b28cc439bdda1582ff31346182f5a9c5"
+    }
+  ],
+  "total_bytes": 59581810754,
+  "bundled": [
+    "LICENSE",
+    "USAGE_POLICY.md",
+    "chat_template.jinja",
+    "config.json",
+    "generation_config.json"
+  ],
+  "acquisition": "Official pinned HF metadata and LFS SHA256s; no local weights downloaded"
+}

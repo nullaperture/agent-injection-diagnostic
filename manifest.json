@@ -1,0 +1,177 @@
+{
+  "format": "three-model-work-sample-v1",
+  "files": {
+    "EXPORT_NOTES.md": {
+      "bytes": 1326,
+      "sha256": "df2b34056c7d134b8121fe12bc73ea1108701dfb3bb7d54aae78f2e36a7500b5"
+    },
+    "README.md": {
+      "bytes": 580,
+      "sha256": "3a7faeff9b7252ea7646c7d3066cd74b0ef161c010a19a0dc86a4d21c262b602"
+    },
+    "REPRODUCTION.md": {
+      "bytes": 2960,
+      "sha256": "126287d2693d3235d09da5f15be59ba95ceb627e7db712e6d50fcf379ed82233"
+    },
+    "build-tools.lock": {
+      "bytes": 298,
+      "sha256": "d4bf530b479f5cbf2b60a7f313db7945a9b590dd2f9c8df90f60dceb53a2f397"
+    },
+    "cases.html": {
+      "bytes": 70289,
+      "sha256": "eacc2afa3d13bb925d4d0d602117bbe700fd7280b98d270575ec1d84d9637c79"
+    },
+    "confirmation.json": {
+      "bytes": 4141,
+      "sha256": "382688fbb03f40024d525a4493a680340bd2b08de3560543d18c32e99dbd7b25"
+    },
+    "index.html": {
+      "bytes": 13421,
+      "sha256": "222bca987732e1d6e384fe9a8b4ed864d4feb8082168f10468f298265914dae5"
+    },
+    "muse-runtime.lock": {
+      "bytes": 57167,
+      "sha256": "80a466015a6438095a9e9d123d0fdb740d890b4ad327410a67da29ba7f02b996"
+    },
+    "prepare.py": {
+      "bytes": 7202,
+      "sha256": "b24e689bedc65427733048743bbf93cfe619fb3fedc65850a11d58185edd8e81"
+    },
+    "qwen-runtime.lock": {
+      "bytes": 57118,
+      "sha256": "bcd7f26d5da76cab038738a784b2a1d8afb4f1bfa17b300b18538bd94dbb8e6d"
+    },
+    "repeat_worker.py": {
+      "bytes": 2550,
+      "sha256": "a895f9c7f1ac241fc1400814c1a71b2dfb9cf64f598a24694f41f814da0e006d"
+    },
+    "requests.json": {
+      "bytes": 99872,
+      "sha256": "ef1a8aa1b702ada47d574b32b31f7af859780cf06febd8a9ecd3f786419f1268"
+    },
+    "results.json": {
+      "bytes": 180086,
+      "sha256": "a476291089caa6020023a9fe9ee49e4f97d9200134f51d6f86dc4d68cd5c6a12"
+    },
+    "run-environment.json": {
+      "bytes": 603,
+      "sha256": "392b4256fed5da03456db9b26ae1456074f5fb5860e5defc30035e0e77879ef5"
+    },
+    "run.py": {
+      "bytes": 1382,
+      "sha256": "0890a3684d4ba2e41f0976a1a0a0d8ca8bbcd027290d1b9798038aaae44f2a27"
+    },
+    "runtime/sample_runtime/__init__.py": {
+      "bytes": 221,
+      "sha256": "96d4f071a502633547e75fe44462b9ab8b178bb1dc320da7e82370cdfbed175d"
+    },
+    "runtime/sample_runtime/backends.py": {
+      "bytes": 2657,
+      "sha256": "41362cf8b92a2ef0a1e4b195e024613f08c6471fbd14556d233c3bc71d5e6503"
+    },
+    "runtime/sample_runtime/cli.py": {
+      "bytes": 5803,
+      "sha256": "890913a359708c615344ae9e9ed4a9bd47272ca3873e0047eda42bbc89a89c8c"
+    },
+    "runtime/sample_runtime/muse.py": {
+      "bytes": 8094,
+      "sha256": "bf6b28123d28509e81127a643652a5193e4881c9542f87e786e6ba005983e340"
+    },
+    "runtime/sample_runtime/muse_tools.py": {
+      "bytes": 3589,
+      "sha256": "d7464d875f0f1448a5a258e776b2a61b837c960ee601ec191fb94e7d6cbc071e"
+    },
+    "runtime/sample_runtime/profiles/muse-glimmer-30b/LICENSE": {
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    "runtime/sample_runtime/profiles/muse-glimmer-30b/USAGE_POLICY.md": {
+      "bytes": 5230,
+      "sha256": "98a14dab9fd97de1666dc8589d399efab1e7fc3ba4e6230d037d6637ba9481d3"
+    },
+    "runtime/sample_runtime/profiles/muse-glimmer-30b/chat_template.jinja": {
+      "bytes": 9992,
+      "sha256": "cfc67e5f349f37690dfd31ed1f18bc4442a9dd32fe39a648f993cb4eb3cae678"
+    },
+    "runtime/sample_runtime/profiles/muse-glimmer-30b/config.json": {
+      "bytes": 5109,
+      "sha256": "5a9df2d8a385b3d361ab6ae68d73586f4e775033933bd0cd863fb7f3820e6a14"
+    },
+    "runtime/sample_runtime/profiles/muse-glimmer-30b/generation_config.json": {
+      "bytes": 202,
+      "sha256": "1fa51889b1f8d3659802dedaa27e005b81e5c58483f13ecf13f2d97306bc6e35"
+    },
+    "runtime/sample_runtime/profiles/muse-glimmer-30b/model-manifest.json": {
+      "bytes": 2101,
+      "sha256": "a76fce06e94b3ed994b9a8977fe0fde5f4d0836f5a9c473d14fdae9a05688164"
+    },
+    "runtime/sample_runtime/profiles/qwen3.6-27b/LICENSE": {
+      "bytes": 11343,
+      "sha256": "50cbab8a892c5f2993b8c7351a99182507472def3b1374558308605d99b86b32"
+    },
+    "runtime/sample_runtime/profiles/qwen3.6-27b/chat_template.jinja": {
+      "bytes": 7764,
+      "sha256": "e84f32a23fdda27689f868aa4a1a5621f41133e51a48d7f3efcbea2839574259"
+    },
+    "runtime/sample_runtime/profiles/qwen3.6-27b/config.json": {
+      "bytes": 4308,
+      "sha256": "69db4eb7196bc8190813231b3018ca05d8c2e3abc7b1af19d55c157af44a9d9c"
+    },
+    "runtime/sample_runtime/profiles/qwen3.6-27b/generation_config.json": {
+      "bytes": 202,
+      "sha256": "e70c136c1b78ddc1fb0905bac8e733a4dc448d4f852a5dd75143fffc70be550e"
+    },
+    "runtime/sample_runtime/profiles/qwen3.6-27b/model-manifest.json": {
+      "bytes": 4776,
+      "sha256": "b4965c5b863ed2f5d7b28580cd826b95c8c3b31603e0f00f727f40e910f777a0"
+    },
+    "runtime/sample_runtime/profiles/qwen3.8-27b/LICENSE.txt": {
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    "runtime/sample_runtime/profiles/qwen3.8-27b/chat_template.jinja": {
+      "bytes": 8952,
+      "sha256": "c3cf9e34abf4f9e36c2d72165aa9c132d3e2a725b6c2586aaa3a8af9d7a81041"
+    },
+    "runtime/sample_runtime/profiles/qwen3.8-27b/config.json": {
+      "bytes": 4312,
+      "sha256": "191e0af232104ed8b65258cf3fb2b842e288008baca7633c11b82a1ac7203aab"
+    },
+    "runtime/sample_runtime/profiles/qwen3.8-27b/generation_config.json": {
+      "bytes": 202,
+      "sha256": "e70c136c1b78ddc1fb0905bac8e733a4dc448d4f852a5dd75143fffc70be550e"
+    },
+    "runtime/sample_runtime/profiles/qwen3.8-27b/model-manifest.json": {
+      "bytes": 4643,
+      "sha256": "2eed87eae503284d40dbf04be4e9d2cf488f601897395aecfb7593bc58ffc5d4"
+    },
+    "runtime/sample_runtime/qwen.py": {
+      "bytes": 11689,
+      "sha256": "80da5794a2bac42a704d23e30088c3a2c7f5ccf55a56b3d27207bc8fdd9c598b"
+    },
+    "runtime/sample_runtime/qwen36.py": {
+      "bytes": 4739,
+      "sha256": "47e7c06647d58056b26e467f7a4d192d7075b29cc8d5e1c521901d6ce94e2e08"
+    },
+    "runtime/sample_runtime/tools.py": {
+      "bytes": 2779,
+      "sha256": "1ae9a3f12240d09d2442b50b5cbe43fba1e2878142f1a7c5ccbdf943a32f6926"
+    },
+    "validation_support.py": {
+      "bytes": 8903,
+      "sha256": "61101e6d2369ab14f5fc556cb3fbc513bc4043c81db62fec0b2605b67f024e1f"
+    },
+    "verify.py": {
+      "bytes": 1312,
+      "sha256": "4f9c00d7432d6d6f31bb31f4255ddad819d0416712279720df17196e9fbb0965"
+    },
+    "worker.py": {
+      "bytes": 8886,
+      "sha256": "b0a93d0a5ddfd162915ffd15e2dafa11eb5605ac7931f6fc1b987be919176d9c"
+    },
+    "worker_qwen36.py": {
+      "bytes": 8903,
+      "sha256": "61101e6d2369ab14f5fc556cb3fbc513bc4043c81db62fec0b2605b67f024e1f"
+    }
+  }
+}
