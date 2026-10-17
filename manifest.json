@@ -18,16 +18,16 @@
       "sha256": "d4bf530b479f5cbf2b60a7f313db7945a9b590dd2f9c8df90f60dceb53a2f397"
     },
     "cases.html": {
-      "bytes": 73542,
-      "sha256": "69b2149c2ab5cd77eaa32ae47c5f530da5f7404dceafdc8235adc040205b51e5"
+      "bytes": 73576,
+      "sha256": "13a831dda2eccbde0b4e5d3956fe81bf5d3b3bb1fc71476fa6894058849e7a3b"
     },
     "confirmation.json": {
       "bytes": 4141,
       "sha256": "382688fbb03f40024d525a4493a680340bd2b08de3560543d18c32e99dbd7b25"
     },
     "index.html": {
-      "bytes": 18253,
-      "sha256": "78a3b2c805b862c684b94575079e17e8765c9ee5fcc92a2baf02b553449db8f3"
+      "bytes": 18287,
+      "sha256": "9a1fb57c11fd167c584f49f08061b4d16bb9a694db6cf3d436be1180abe2cf87"
     },
     "muse-runtime.lock": {
       "bytes": 57167,
